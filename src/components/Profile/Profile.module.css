@@ -1,0 +1,44 @@
+ul {
+  padding: 0;
+}
+
+.profile {
+  background-color: gray;
+  width: 250px;
+  height: 350px;
+  border-radius: 15px;
+  margin: 50px;
+  padding: 20px;
+}
+.description {
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  border: 1px solid black;
+  background-color: #fff;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.stats {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  text-align: center;
+}
+
+.label {
+  display: block;
+}
+
+.quantity {
+  font-weight: bold;
+}
