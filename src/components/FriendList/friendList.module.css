@@ -7,7 +7,8 @@
 }
 
 .item {
-  border: 1px solid rgb(109, 105, 105);
+  border: 2px solid rgb(71, 17, 17);
+  border-radius: 5px;
   padding: 20px;
   display: flex;
   background-color: gray;

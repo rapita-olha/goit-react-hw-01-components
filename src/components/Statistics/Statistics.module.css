@@ -1,7 +1,8 @@
 .statistics {
   display: block;
-  background-color: gray;
+  background-color: rgb(89, 119, 136);
   border: 1px solid black;
+  border: 2px solid rgb(83, 13, 13);
   border-radius: 5px;
   width: 350px;
   height: 150px;
